@@ -1,5 +1,5 @@
 # free-for.dev
-
+as
 Developers and Open Source authors now have many services offering free tiers, but finding them all takes time to make informed decisions.
 
 This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings with free developer tiers.
@@ -11,7 +11,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/ripienaar/free-for-dev)
 
 **NOTE**: This list is only for as-a-Service offerings, not for self-hosted software. To be eligible, a service must offer a free tier, not just a free trial. The free tier must be for at least a year if it is time-bucketed. We also consider the free tier from a security perspective, so SSO is fine, but I will not accept services that restrict TLS to paid-only tiers.
-
+ss
 # Table of Contents
 
    * [Major Cloud Providers' Always-Free Limits](#major-cloud-providers)
